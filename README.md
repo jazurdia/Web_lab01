@@ -41,6 +41,11 @@ appleteach1 (20 pts):
     "you take advantage of any oportunity"
 
 
-mejor broma del sitio (10 pts):
+mejor broma del sitio (5 pts):
     The opposite of talking isn't listening.  The opposite of talking is
     waiting.
+
+noticia en usenet(10pts):
+
+    id: 70268
+    titulo: First European Conference on Computer Supported Cooperative Work
