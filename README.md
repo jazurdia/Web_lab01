@@ -30,3 +30,6 @@ psicoterapeuta (10 pts):
     TRUE FRIENDS STAB YOU IN THE FRONT (OSCAR WILDE).
 
 
+traducir la frase a morse (10 pts) :
+    -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
