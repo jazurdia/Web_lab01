@@ -33,3 +33,11 @@ psicoterapeuta (10 pts):
 traducir la frase a morse (10 pts) :
     -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 
+appleteach1 (20 pts):
+    "you are a loving person"
+    "you think things out intelligently"
+    "you are righteous"
+    "you have sexual inclinations"
+    "you take advantage of any oportunity"
+
+
