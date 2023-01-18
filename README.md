@@ -41,3 +41,6 @@ appleteach1 (20 pts):
     "you take advantage of any oportunity"
 
 
+mejor broma del sitio (10 pts):
+    The opposite of talking isn't listening.  The opposite of talking is
+    waiting.
